@@ -474,6 +474,14 @@ let str2 = "helo world helo";
 //     console.log('zero');
 // }
 
+// let username = "admin";
+// let password = 123;
+// if(username === "admin" && password === 123){
+//     console.log("login successful");
+// }else{
+//     console.log("wrong details");
+    
+// }
 
     
 
