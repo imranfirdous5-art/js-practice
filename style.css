@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
+
+ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 45px;
+}
+
+/* JS login function */
+.length{width: 50%;
+    background-color: #efef91;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.wrap{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 6px;
+}
+.butn{
+  background: none;
+  border: 1px solid black;
+ 
+}
+.show{
+text-align: center;
+padding: 5px;
+}
+
+/* calculator from js or dom */
+
+.size{padding: 5px;}
